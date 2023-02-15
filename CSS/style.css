@@ -23,3 +23,13 @@ a {
     justify-content: left;
 }
 
+/*--------------Home page-----------*/
+
+#home {
+    background-image: url(/Assets/image/placeholder-bg-home.jpg);
+    background-size: cover;
+    background-position: top center;
+    position: relative;
+}
+
+
